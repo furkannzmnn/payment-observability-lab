@@ -1,0 +1,9 @@
+--------------------------------------------------------
+ ANLIK DURUM  20:47:42
+--------------------------------------------------------
+ Prometheus aktif time series:              73403
+ payment_authorization_total seri:          73004
+ Prometheus RSS:                            412409856 bytes
+ payment-app scrape suresi:                 0.399316 sn
+ TSDB chunk sayisi:                         73403
+--------------------------------------------------------
